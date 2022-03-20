@@ -11,6 +11,9 @@
   |Framework|SpringBoot|2.6|
   |데이터베이스|H2|2.1.210|
 
+- ## 실행 조건
+  - java 11 이상이 설치되어있어야합니다.
+  
 - ## 실행 방법
   1. 해당 디렉토리 하위로 가서 ./gradlew build 실행
   2. 빌드후, build/libs 하위에 jar 실행 (java -jar ./musinsa-api-0.0.1-SNAPSHOT.jar)
