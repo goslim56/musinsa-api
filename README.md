@@ -55,7 +55,7 @@
 3. DELETE /category
     - 카테고리 삭제
    - | Parameter|Required| Description |
-           |------|-------------|---|
+     |------|-------------|---|
      | id|true| 카테고리 번호     |
 
 
