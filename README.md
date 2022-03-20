@@ -28,6 +28,11 @@
         primary key (id)
     )
   
+    alter table category 
+       add constraint FK2y94svpmqttx80mshyny85wqr 
+       foreign key (parent_id) 
+       references category
+  
   
     ```
 - ### 테스트 방법
