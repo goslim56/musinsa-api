@@ -14,9 +14,7 @@
 - ## 실행 방법
   1. 해당 디렉토리 하위로 가서 ./gradlew build 실행
   2. 빌드후, build/libs 하위에 jar 실행 (java -jar ./musinsa-api-0.0.1-SNAPSHOT.jar)
-
-
-- ### 과제의 원활한 실행을 위해, H2가 아닌 인메모리 DB로 변경해두었습니다.
+  
 
 - ### 테이블 생성 쿼리문
     ```
